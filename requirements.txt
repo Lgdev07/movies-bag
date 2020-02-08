@@ -38,13 +38,11 @@ PAM==0.4.2
 parso==0.5.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==5.1.0
 prompt-toolkit==3.0.2
 protobuf==3.0.0
 psutil==5.4.2
 ptyprocess==0.6.0
 pycairo==1.16.2
-pycrypto==2.6.1
 pycups==1.9.73
 pycurl==7.43.0.1
 Pygments==2.5.2
@@ -62,11 +60,7 @@ python-dotenv==0.11.0
 python-xapp==1.8.1
 python-xlib==0.20
 pytz==2018.3
-pyxdg==0.25
-PyYAML==3.12
 reportlab==3.4.0
-requests==2.18.4
-requests-unixsocket==0.1.5
 screen-resolution-extra==0.0.0
 sessioninstaller==0.0.0
 setproctitle==1.1.10
